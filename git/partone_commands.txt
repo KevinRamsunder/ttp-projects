@@ -1,0 +1,23 @@
+## basic commands for starting a project with git
+
+mkdir gitproject
+cd gitproject
+git init
+
+git remote add origin <link>
+git remote -v
+
+subl index.html
+# make changes to file and save
+git status
+git add index.html
+git commit -m "Initial commit"
+
+subl index.html
+# add html scaffolding
+git status
+git add index.html
+git commit -m "Added html scaffolding"
+
+git status
+git push origin master

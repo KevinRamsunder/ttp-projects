@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+.left_side {
+  width: 30%;
+  float: left;
+}
+
+.right_side {
+  width: 70%;
+  float: left;
+}
+
+.sub_section {
+  width: 25%;
+  float: left;
+  margin-top: 30px;
+  margin-left: 50px;
+  font: white;
+}
+
+.background {
+  background-image: url(../images/rock_nyc.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 200px;
+  height: 200px;
+/*  border-bottom: 5px solid black;*/
+}
+
+h1.heading {
+  color: white; 
+  font-size: 72px;
+  font-family: "Open sans", Impact, Arial; 
+  font-weight: 300; 
+  text-transform: uppercase;
+}
