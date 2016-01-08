@@ -1,0 +1,61 @@
+h1.title {
+	/* dark green hex code, google 'dark green hex code' */
+	color: #006400;
+}
+
+h1.title, h2.subtitle {
+	font-family: "Georgia", sans-serif;
+	text-align: center;
+	width: 432px;
+	margin: 0 auto;
+}
+
+h4 {
+	line-height: 0px;
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+div.wrapper {
+	width: 475px;
+	margin: 0 auto;
+}
+
+img.main_image {
+	display: block;
+	float: left;
+	clear: both;
+	width: 450px;
+	height: 450px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+div.text {
+	font-family: "Georgia", sans-serif;
+	display: block;
+	width: 450px;
+	margin-left: 16px;
+}
+
+p.default {
+	line-height: 19px;
+}
+
+p.suggestion {
+	text-transform: uppercase;
+	font-weight: bold;
+ 	text-decoration: underline;
+	margin-left: 11px;
+	margin-bottom: 1px;
+}
+
+ul li {
+	font-family: "Georgia", sans-serif;
+	margin-left: 11px;
+}
+
+a {
+	font-family: "Georgia", sans-serif;
+	margin-left: 11px;
+}
