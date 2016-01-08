@@ -1,0 +1,43 @@
+div.body {
+	display: block;
+	width: 1296px;
+	margin: 0 auto;
+}
+
+.sidebar {
+     position: fixed;
+     margin-top: -8px;
+     margin-left: -8px;
+     width: 50px;
+     height: 500px;
+ }
+
+ .sidebar > a > img {
+ 	margin-bottom: 20px;
+ 	display: block;
+ 	width: 50px;
+ }
+
+div.heading > h1 {
+	text-align: center;	
+	margin: 0 auto;
+	position: relative;
+	margin-bottom: 15px;
+}
+
+span.column {
+	position: relative;
+	display: inline-block;
+	box-sizing: content-box;
+	border: 1px solid black;
+	margin: 0 auto;
+	width: 583px;
+	height: 1500px;
+	padding: 15px;
+	margin: 10px;
+	float: left;
+}
+
+span.column > p {
+	text-align: center;
+}
