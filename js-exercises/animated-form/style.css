@@ -1,0 +1,76 @@
+#move {
+    height: 50px;
+    margin: 50px;
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #0f0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box0 {
+    height: 50px;
+    margin: 50px;
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #000;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box1 {
+    height: 5px;
+    margin: 5px;
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    background: #f00;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box2 {
+    height: 12px;
+    margin: 12px;
+    position: absolute;
+    width: 13px;
+    height: 17px;
+    background: #0f0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box3 {
+    height: 51px;
+    margin: 5px;
+    position: absolute;
+    width: 65px;
+    height: 22px;
+    background: #00f;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box4 {
+    height: 34px;
+    margin: 43px;
+    position: absolute;
+    width: 43px;
+    height: 34px;
+    background: #ff0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box5 {
+    height: 65px;
+    margin: 56px;
+    position: absolute;
+    width: 56px;
+    height: 65px;
+    background: #0ff;
+    text-align: center;
+    margin: 0 auto;
+}

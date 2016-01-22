@@ -1,0 +1,20 @@
+#move {
+    height: 50px;
+    margin: 50px;
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #0f0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#time {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
